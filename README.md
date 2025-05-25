@@ -6,8 +6,12 @@
 
   Para isso, foram desenvolvidas análises distribuídas por áreas de negócio, com visualizações que explicam o desempenho de cada setor e oferecem insights valiosos para a tomada de decisões estratégicas.
 
-## 1.1. Visão Produto
+# 1.0. Menu
+ Para tornar a experiência do usuário mais dinâmica, foi criado um menu interativo que reúne todas as visualizações disponíveis no dashboard.
+![](./imagens/menu.png)
 
+## 1.1. Visão Produto
+![](./imagens/visão_produtos.png)
 - a) Quantidade de Produtos Cadastrados  
 - b) Quantidade Total de Categorias  
 - c) Quantidade Total de Fotos  
@@ -15,7 +19,7 @@
 - e) Quantidade de Fotos por Categoria  
 
 ## 1.2. Visão Pagamento
-
+![](./imagens/visão_pagamentos.png)
 ### 1.2.1. Cartões
 
 - a) Quantidade de pedidos  
@@ -37,7 +41,7 @@
 - c) Status do Pedido  
 
 ## 1.3. Visão Pedido
-
+![](./imagens/visão_pedidos.png)
 ### 1.3.1. Cartões
 
 - a) Quantidade de pedidos  
@@ -62,7 +66,7 @@
 - e) Status do Pedido  
 
 ## 1.4. Visão Avaliações
-
+![](./imagens/visão_avaliações.png)
 ### 1.4.1. Cartões
 
 - a) Quantidade de avaliações únicas  
@@ -88,7 +92,7 @@
 - f) Tipo de Avaliação  
 
 ## 1.5. Visão Vendedores
-
+![](./imagens/visão_vendedores.png)
 ### 1.5.1. Cartões
 
 - a) Quantidade total de vendedores (Detalhes de Vendedores)  
@@ -111,7 +115,7 @@
 - c) Estado do Vendedor  
 
 ## 1.6. Visão Vendas
-
+![](./imagens/visão_vendas.png)
 ### 1.6.1. Cartões
 
 - a) Total de Vendas  

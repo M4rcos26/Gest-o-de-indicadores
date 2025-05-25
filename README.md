@@ -41,7 +41,7 @@
 - c) Status do Pedido  
 
 ## 1.3. Visão Pedido
-![](./imagens/visão_pedidos.png)
+![](./imagens/visão_pedido.png)
 ### 1.3.1. Cartões
 
 - a) Quantidade de pedidos  
